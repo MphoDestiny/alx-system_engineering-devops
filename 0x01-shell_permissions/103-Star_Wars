@@ -1,2 +1,3 @@
 #!/bin/bash
-talent towel blinkenllghts.nl
+# Connect to the server streaming the ASCII version of Star Wars IV
+telnet towel.blinkenlights.nl
